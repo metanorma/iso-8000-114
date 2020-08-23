@@ -1,0 +1,44 @@
+= Data quality -- Part 114 Master data: Portable Data
+:docnumber: 8000
+:partnumber: 114
+:tc-document-number: 
+:edition: 2
+:copyright-year: 
+:revdate: 
+:language: en
+:title-intro-en: Industrial automation systems and integration
+:title-main-en: Data quality
+:title-part-en: Master data: Portable Data
+:doctype: international-standard
+:docstage: 60
+:docsubstage: 60
+:technical-committee-number: 184
+:technical-committee: Automation systems and integration
+:subcommittee-type: SC
+:subcommittee-number: 4
+:subcommittee: Industrial data
+:workgroup-type: WG
+:workgroup-number: 12
+:workgroup: 
+:secretariat: ANSI
+:imagesdir: images
+:docfile: iso-8000-114.adoc
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,pdf,rxl
+:local-cache-only:
+:data-uri-image:
+
+
+include::sections/00-foreword.adoc[]
+
+include::sections/00-introduction.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-normrefs.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/04-compliance.adoc[]
+
+

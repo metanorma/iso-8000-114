@@ -1,0 +1,6 @@
+
+
+== Scope
+
+Dictionary concept identifiers (ISO 8000-115 identifiers for dictionary concept encoding)
+Structured Data Format (.sdf) (json + ISO 8000-115 identifiers)
