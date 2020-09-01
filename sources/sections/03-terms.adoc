@@ -1,0 +1,9 @@
+
+[source="ISO_8000-2"]
+== Terms and definitions
+
+=== structured data format
+alt:[SDF]
+
+data format defined in this document for representing portable data
+

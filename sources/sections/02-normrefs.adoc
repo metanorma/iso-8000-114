@@ -1,0 +1,9 @@
+
+[bibliography]
+== Normative references
+
+* [[[ISO_8000-115,ISO 8000-115]]]
+
+* [[[ISO_8000-116,ISO 8000-116]]]
+
+* [[[ISO_21778,ISO/IEC 21778]]]

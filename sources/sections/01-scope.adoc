@@ -1,6 +1,21 @@
 
-
 == Scope
 
-Dictionary concept identifiers (ISO 8000-115 identifiers for dictionary concept encoding)
-Structured Data Format (.sdf) (json + ISO 8000-115 identifiers)
+The following are within the scope of this part of ISO 8000:
+
+* requirements and definition of portable data;
+
+* requirements and definition of dictionary concept identifiers;
+
+* syntax and semantics of the structured data format;
+
+* mechanism to represent portable data in the structured data format.
+
+
+The following are outside the scope of this part of ISO 8000:
+
+* content within the structured data format;
+
+* the methods used for measuring compliance with data governance policy statements;
+
+* the methods used for monitoring compliance with data governance policy statements.

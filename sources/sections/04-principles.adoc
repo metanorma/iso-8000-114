@@ -1,0 +1,31 @@
+
+== Fundamental principles and assumptions
+
+
+=== General
+
+=== Portable data
+
+TODO Requirements and definition.
+
+
+=== Dictionary concept identifiers
+
+TODO Requirements and definition.
+
+ISO 8000-115 identifiers for dictionary concept encoding.
+
+
+
+=== Structured data format
+
+JSON.
+
+ISO 8000-115 identifiers in JSON.
+
+Syntax and semantics.
+
+Mechanism to represent portable data in the structured data format.
+
+Structured Data Format (.sdf)
+

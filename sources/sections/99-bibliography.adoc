@@ -1,0 +1,8 @@
+
+[bibliography]
+== Bibliography
+
+* [[[ISO_8000-2,ISO 8000-2]]]
+* [[[ISOIEC_8824-1,ISO/IEC 8824-1]]]
+* [[[ISO_10303-1,ISO 10303-1]]]
+* [[[ISO-IEC_21778,ISO/IEC 21778]]]

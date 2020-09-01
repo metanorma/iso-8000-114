@@ -1,5 +1,0 @@
-
-
-== Compliance
-
-Portable data shall be contained in a file with a .sdf extension, use ISO/IEC 21778 defined syntax (json) and use ISO 8000-115 identifiers for concept encoding

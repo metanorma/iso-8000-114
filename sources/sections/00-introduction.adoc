@@ -8,13 +8,17 @@ common for applications used to collect or store master data to encode
 master data using proprietary metadata and reference data. Under copyright
 law, the owner of the proprietary metadata or reference data has a legal
 interest in the data that contains their proprietary metadata or reference
-data. The goal of ISO 8000 is to lower the cost of maintaining master data
+data.
+
+The goal of ISO 8000 is to lower the cost of maintaining master data
 and to allow it to be used as a trusted asset across all business functions,
 increasing efficiency and reducing risk. Master data is data that is designed
 to be referenced through an identifier. The ability to resolve this identifier
 and easily transfer master data between applications requires that the syntax
 and semantic encoding used to encode master data be explicit and publicly
-available. This document defines portable data, data that complies with a
+available.
+
+This document defines portable data, data that complies with a
 publicly available syntax and which is encoded using a
-publicly available concept dictionary. 
+publicly available concept dictionary.
 

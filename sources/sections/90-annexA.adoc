@@ -1,0 +1,13 @@
+
+[[annexA]]
+[appendix,obligation="normative"]
+== Document identification
+
+To provide for unambiguous identification of an information object in an open system, the object identifier
+
+----
+{ iso standard 8000 part(51) version(1) }
+----
+
+is assigned to this part of ISO 8000. The meaning of this value is defined in <<ISOIEC_8824-1>>, and is described in <<ISO_10303-1>>.
+

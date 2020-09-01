@@ -1,0 +1,16 @@
+
+== Conformance
+
+////
+- the content of a new clause “6 Conformance” needs to follow the pattern of ISO 8000-115 and ISO 8000-116;
+////
+
+Portable data shall:
+
+. be contained in a file with a `.sdf` extension;
+
+. use <<ISO-IEC_21778>> defined syntax and use <<ISO_8000-115>> identifiers for concept encoding
+
+A quality identifier conforms to this part of ISO 8000 when <<req-1>>, <<req-2>> and <<req-3>> are met.
+
+//NOTE:	Clause 5 b) is optional.

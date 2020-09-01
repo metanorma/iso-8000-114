@@ -1,0 +1,65 @@
+= ISO 8000-114
+
+This work item belongs to ISO/TC 184/SC 4/WG 13.
+
+//image:https://gitlab.com/metanorma/iso-8000-114/badges/master/pipeline.svg["Build Status (master)", link="https://gitlab.com/metanorma/iso-8000-114/pipelines"]
+
+//This document is available in its rendered forms here:
+
+//* https://metanorma.gitlab.io/iso-8000-114/[ISO 8000-114: STEP Vocabulary]
+
+
+== Fetching the document
+
+[source,sh]
+----
+git clone https://github.com/metanorma/iso-8000-114/
+----
+
+
+== Installing Build Tools
+
+See https://www.metanorma.com/author/topics/install/
+
+
+== Running via Docker or locally
+
+If you have installed the build tools locally, and wish to run the
+locally-installed compilation tools, there is nothing further to set.
+
+If you don't want to deal with local dependencies, use the docker
+version by:
+
+[source,sh]
+----
+export METANORMA_DOCKER=metanorma/mn
+----
+
+The `Makefile` will automatically choose the proper command to
+execute.
+
+
+== Building The Document
+
+[source,sh]
+----
+make clean all
+----
+
+The following outputs will be built:
+
+* Document index at `documents.html`
+* ISO 8000-114 at `documents/iso-8000-114.html`
+* HTML (`[filename].html`)
+* PDF (`[filename].pdf`)
+* Word DOC (`[filename].doc`)
+
+
+== Iterating the document
+
+[source,sh]
+----
+make
+open documents/iso-8000-114.html
+----
+

@@ -1,0 +1,9 @@
+
+
+== Requirements for the structured data format
+
+. [[req-1]] The data contained ...
+
+. [[req-2]] The identifiers used in the structured data format shall conform to <<ISO_8000-115>>.
+
+. [[req-3]] The structured data format shall...

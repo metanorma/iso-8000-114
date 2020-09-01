@@ -1,33 +1,37 @@
 = Data quality -- Part 114 Master data: Portable Data
 :docnumber: 8000
 :partnumber: 114
-:tc-document-number: 
-:edition: 2
-:copyright-year: 
-:revdate: 
+:tc-document-number:
+:edition: 1
+:copyright-year: 2020
+:revdate: 2020-08-24
 :language: en
-:title-intro-en: Industrial automation systems and integration
-:title-main-en: Data quality
-:title-part-en: Master data: Portable Data
+:title-intro-en: Data quality
+:title-main-en: Master data
+:title-part-en: Portable Data
+:title-intro-fr: Qualité des donnes
+:title-main-en: Données de base
+:title-part-fr: Données portables
 :doctype: international-standard
-:docstage: 60
-:docsubstage: 60
+:docstage: 10
+:docsubstage: 10
+:technical-committee-type: TC
 :technical-committee-number: 184
 :technical-committee: Automation systems and integration
 :subcommittee-type: SC
 :subcommittee-number: 4
 :subcommittee: Industrial data
 :workgroup-type: WG
-:workgroup-number: 12
-:workgroup: 
+:workgroup-number: 13
+:workgroup: Industrial Data Quality
 :secretariat: ANSI
 :imagesdir: images
-:docfile: iso-8000-114.adoc
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,pdf,rxl
 :local-cache-only:
 :data-uri-image:
 
+//:docfile: iso-8000-114.adoc
 
 include::sections/00-foreword.adoc[]
 
@@ -39,6 +43,12 @@ include::sections/02-normrefs.adoc[]
 
 include::sections/03-terms.adoc[]
 
-include::sections/04-compliance.adoc[]
+include::sections/04-principles.adoc[]
 
+include::sections/05-requirements.adoc[]
 
+include::sections/06-conformance.adoc[]
+
+include::sections/90-annexA.adoc[]
+
+include::sections/99-bibliography.adoc[]

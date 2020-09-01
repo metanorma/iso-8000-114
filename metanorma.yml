@@ -1,0 +1,8 @@
+---
+metanorma:
+  deploy:
+    email: "ci@metanorma.org"
+relaton:
+  collection:
+    name: ISO 8000-114
+    organization: ISO/TC 184/SC 4/WG 13
